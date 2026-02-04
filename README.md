@@ -61,7 +61,3 @@ The project includes several plots such as:
 - Pandas
 - NumPy
 - Matplotlib
-
----
-
-## 📂 Project Structure
